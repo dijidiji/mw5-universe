@@ -1,0 +1,1 @@
+"F:\Games\Epic Library\MechWarrior5Editor\Engine\Binaries\Win64\UnrealPak.exe" "F:\Games\Epic Library\MW5Mercs\MW5Mercs\Content\Paks\MW5Mercs-Z0001-Star.pak" -create="F:\packageresponse.txt" -compress
