@@ -1,0 +1,2174 @@
+﻿Name,StarSystemName
+0,INVALID
+1,Terra
+2,Tau Ceti
+3,Rigil Kentarus
+4,Pike
+5,Rochelle
+6,Freedom
+7,Ryde
+8,Sevren
+9,Thorin
+10,Nirasaki
+11,Tall Trees
+12,Zurich
+13,Denebola
+14,Oliver
+15,Procyon
+16,Muphrid
+17,Northwind
+18,Shiloh
+19,Castor
+20,Saffel
+21,Marik
+22,Quentin
+23,Tigress
+24,Dieudonne
+25,Nusakan
+26,Lipton
+27,Hall
+28,New Home
+29,Summer
+30,Epsilon Eridani
+31,Nashira
+32,Ingress
+33,Ko
+34,Cor Caroli
+35,Caph
+36,Chesterton
+37,Kervil
+38,Cartago
+39,Carver
+40,Asta
+41,Epsilon Indi
+42,Ozawa
+43,Milton
+44,Styx
+45,Outreach
+46,Edwards
+47,Doneval
+48,Callison
+49,Keid
+50,Imbros
+51,Mallory's World
+52,Syrma
+53,Mizar
+54,Altair
+55,Lambrecht
+56,Ascella
+57,Basalt
+58,Zion
+59,Telos
+60,Eltanin
+61,Rukbat
+62,McHenry
+63,Dyev
+64,Demeter
+65,Eaton
+66,Blue Diamond
+67,Laiaka
+68,Capolla
+69,Terra Firma
+70,Skat
+72,Fomalhaut
+73,Sheratan
+74,Piedmont
+75,Bryant
+76,Helen
+77,Muskegon
+78,Zavijava
+79,Arboris
+80,Yorii
+81,Hsien
+82,Kawich
+83,Autumn Wind
+84,Connaught
+85,Graham
+86,Moore
+87,Aldebaran
+88,Kessel
+89,Small World
+90,Foot Fall
+91,Robinson
+92,Alphecca
+93,Lyons
+94,Wasat
+95,Atria
+96,Alkalurops
+97,Junction
+98,Alcor
+99,Auldhouse
+100,Irian
+101,Menkent
+102,Devil's Rock
+103,Sadalbari
+104,New Olympia
+105,Phecda
+106,Sirius
+107,Asuncion
+108,Woodstock
+109,Stewart
+110,Skondia
+111,Markab
+112,Errai
+113,Sarna
+114,Gei-Fu
+115,Biham
+116,Wing
+117,Genoa
+118,Hamilton (FWL)
+119,Konstance
+120,Quemoy
+121,Ruchbah
+122,Hamal
+123,Yangtze
+124,Waddesdon
+125,Algedi
+126,Logandale
+127,Beten Kaitos
+128,Emerson
+129,Dabih
+130,Kitalpha
+131,Mariefred
+132,Ashio
+133,Homam
+134,Scheat
+135,Tongatapu
+136,Nathan
+137,Remulac
+138,Alrakis
+139,Halstead Station
+140,Royal
+141,Ideyld
+142,Chertan
+143,Alchiba
+144,Alula Australis
+145,Algol
+146,Mara
+147,Batavia
+148,Bandora
+149,Kuzuu
+150,Suzano
+151,Masterson
+152,Palos
+153,Tikonov
+154,Fuentes
+155,Dromini
+156,Towne
+157,New Hessen
+158,Keystone
+159,Nanking
+160,Bharat
+161,New Valencia
+162,Sarpsborg
+163,Alioth
+164,Zosma
+165,Slocum
+166,Foochow
+167,Chara
+168,Liao
+169,Murchison
+170,Sadachbia
+171,Crossing
+172,Arganda
+173,Savannah
+174,Elgin
+175,Addicks
+176,Algot
+177,Dubhe
+178,Unukalhai
+179,Pleione
+180,Shensi
+181,Al Na'ir
+182,Kurhah
+183,Mirach
+184,Drusibacken
+185,Skye
+186,Saiph
+187,Styk
+188,New Sagan
+189,Wyatt
+190,Acubens
+191,Berenson
+192,Ingersoll
+193,Kaus Media
+194,Dieron
+195,Kestrel
+196,Fletcher (FWL)
+197,Alphard
+198,Marcus
+199,Bernardo
+200,Menkalinan
+201,Aubisson
+202,Kaus Australis
+203,Capella
+204,Shitara
+205,La Blon
+206,Zollikofen
+207,Miaplacidus
+208,La Grave
+209,Kurragin
+210,Rio
+211,Sonnia
+212,Goshen
+213,Yed Prior
+214,Pollux
+215,Accrington
+216,Tybalt
+217,St. Ives
+218,Asellus Australis
+219,Ronel
+220,Clovis
+221,Alhena
+222,Kochab
+223,Alexandria
+224,Gan Singh
+225,Azha
+226,Ibstock
+227,Athenry
+228,Tallmadge
+229,Aur
+230,Zaniah
+231,Kyrkbacken
+232,Shimonoseki
+233,Lucianca
+234,Izar
+235,New Wessex
+236,Kaus Borealis
+237,Cylene
+238,Tannil
+239,Cadiz (TC)
+240,Talitha
+241,Hean
+242,Marlette
+243,Exeter
+244,Futuna
+245,Seginus
+246,Sulafat
+247,Caselton
+248,Avellaneda
+249,Chamdo
+250,Olancha
+251,Kalidasa
+252,Morningside
+253,Sian
+254,Awano
+255,Apostica
+256,Nopah
+257,Ares
+258,Mira
+259,Oceana
+260,Wei
+261,Coriscana
+262,Hyde
+263,Cumbres
+264,Ningpo
+265,Marduk
+266,Kirkenlaard
+267,Summit
+268,Orestes
+269,New Canton
+270,Alya
+271,Tsitsang
+272,Ancha
+273,Argyle
+274,Togwotee
+275,Gacrux
+276,Carnwath
+277,Halloran
+278,Scudder
+279,Solaris
+280,Breukelen
+281,Jasmine
+282,Hagiwawa
+283,Augustine
+284,Yance
+285,Minnacora
+286,Ludwig
+287,New Avalon
+288,Ellengurg
+289,Buchlau
+290,Almach
+291,Wroxeter
+292,Mundrabilla
+293,Gallery
+294,Galatia
+295,New Exford
+296,Trent
+297,Indicass
+298,Menkar
+299,Mesartim
+300,Schedar
+301,Talcott
+302,Shaul Khala
+303,Coloma
+304,Glengarry
+305,Preston (CC)
+306,Achernar
+307,Sutama
+308,Elbar
+309,David
+310,Olafsvik
+311,Alkaid
+312,Park Place
+313,Bell
+314,Rochester
+315,Kyeinnisan
+316,Franklin
+317,Forkas
+318,Hollabrunn
+319,Sheridan
+320,Turinge
+321,Washburn
+322,Eidsfoss
+323,Koniz
+324,Oriente
+325,Holt
+326,New Delos
+327,Baxter
+328,Eom
+329,Hunan
+330,Arkab
+331,Truth
+332,Kajikazawa
+333,Raman
+334,Monongahela
+335,Barstow
+336,Lucerne
+337,Plymouth
+338,Goubellat
+339,Giausar
+340,Laureles
+341,Chukchi
+342,Dayr Khuna
+343,Kockengen
+344,Asellus Borealis
+345,Carsphairn
+346,Nekkar
+347,Bordon
+348,Tsinghai
+349,Kashilla
+350,Altenmarkt
+351,Caldrea
+352,St. Andre
+353,Zaurak
+354,Necromo
+355,Perkasie
+356,Tawas
+357,Helsingfors
+358,Wappingers
+359,Smolensk
+360,Ljugarn
+361,Cholame
+362,Dobson
+363,Freisland
+364,Kawabe
+365,Imbrial
+366,Waunakee
+367,Wallis
+368,Alma Alta
+369,Aristotle
+370,Morges
+371,Symington
+372,Bentley
+373,Fletcher (CC)
+374,Shipka
+375,Goderich
+376,Monistrol
+377,Paris
+378,Peabody
+379,Pingree
+380,Aitutaki
+381,Colinas
+382,Rasalas
+383,Mesa Verde
+384,Svinngarn
+385,Caledonia
+386,Kiyev
+387,Najha
+388,Harloc
+389,Tinaca
+390,Kanowit
+391,Lee
+392,Sanilac
+393,Kentares
+394,Salem
+395,Agematsu
+396,Streator
+397,Fallon
+398,Graceland
+399,Pandora
+400,Daneshmand
+401,Denbar
+402,St. Loris
+403,Tsingtao
+404,Falsterbo
+405,Xhosa
+406,Flushing
+407,Arlington
+408,Odell
+409,Hachiman
+410,Sodus
+411,Nakaojo
+412,An Ting
+413,Huan
+414,Susulatna
+415,Gibson
+416,Midkiff
+417,McAffe
+418,Pherkad
+419,Jaumegarde
+420,Lyndon
+421,Antares
+422,Kelenfold
+423,Kimball
+424,Cronulla
+425,Sakhalin (LC)
+426,Ulan Bator
+427,Brighton
+428,Jonathan
+429,Cyrenaica
+430,Proserpina
+431,Saginaw
+432,Dixie
+433,Kitzingen
+434,Manihiki
+435,Bjornlunda
+436,Uhuru
+437,Al Hillah
+438,Ohrensen
+439,Alnasi
+440,Port Moseby
+441,Geifer
+442,Milos
+443,Aix-la-Chapelle
+444,Cammal
+445,Safe Port
+446,Ogilvie
+447,Koumi
+448,Corydon
+449,Gandy's Luck
+450,Larned
+451,Cosenza
+452,Soilihull
+453,Regulus
+454,Furillo
+455,Jouques
+456,Kirkcaldy
+457,Chaffee
+458,Lungdo
+459,Gram
+460,Odabasi
+461,Saaremaa
+462,Tamsalu
+463,Rosamond
+464,Tiskilwa
+465,Harrow's Sun
+466,Sylvester
+467,Wedgefield
+468,Bremond
+469,Smolnik
+470,Trinidad
+471,Keeling
+472,Harmony
+473,Muscida
+474,Lamon
+475,Laurieston
+476,Abadan
+477,Maestu
+478,Boardwalk
+479,Lothan
+480,Ovan
+481,Weekapaug
+482,Stein's Folly
+483,Narellan
+484,Valmiera
+485,Tripoli
+486,Marlowe's Rift
+487,Lima
+488,Saunemin
+489,Hoff
+490,Remagen
+491,Dnepropetrovsk
+492,Fincastle
+493,Rowe
+494,Gambier
+495,Norfolk
+496,Thermopolis
+497,Arcadia
+498,Odessa
+499,Avior
+500,Elektrougli
+501,Garrison
+502,Carstairs
+503,Vanra
+504,Bithinia
+505,Ventabren
+506,Dehgolan
+507,Fukuroi
+508,Valexa
+509,Umijiri
+510,Axton
+511,Breed
+512,DeWitt
+513,Misery
+514,Beta Mensae
+515,Nockatunga
+516,Sierpc
+517,Zortman
+518,Gladius
+519,Emris
+520,Corridan
+521,Van Diemen
+522,Thun
+523,Housekarle
+524,Aldertaine
+525,New Macao
+526,Acala
+527,Farwell
+528,Galtor
+529,Glenmora
+530,Thestria
+531,Barlow's End
+532,Simferopol
+533,Leamington
+534,Zvolen
+535,Niihau
+536,Krievci
+537,Eutin
+538,Senftenberg
+539,Sterling
+540,Gienah
+541,Ciotat
+542,Helm
+543,Lancaster (FWL)
+544,Ganshoren
+545,Komephoros
+546,Phalan
+547,Old Kentucky
+548,Buckminster
+549,Vorarlberg
+550,Imalda
+551,Hexare
+552,Altais
+553,Toffen
+554,Shinonoi
+555,Chichibu
+556,Tok Do
+557,Yamarovka
+558,Ashkum
+559,Ulan Batar
+560,Fellanin
+561,Bicester
+562,Donenac
+563,Iijima
+564,Harpster
+565,Deshler
+566,Blandinsville
+567,Sauk City
+568,Ramona
+569,Westerstede
+570,Enkoping
+571,Tiber
+572,Ariel
+573,Campertown
+574,Tsukude
+575,Maladar
+576,Tecumseh
+577,Loyalty
+578,Bainsville
+579,Bedeque
+580,Veckholm
+581,Algorab
+582,Angell
+583,Benfled
+584,Ling
+585,Propus
+586,Vega
+587,Shimosuwa
+588,Poznan
+589,Minakuchi
+590,Menkib
+591,Uravan
+592,Otho
+593,Capricorn
+594,Mersa Matruh
+595,Johnsondale
+596,Barlow's Folly
+597,Leiston
+598,Irurzun
+599,Hun Ho
+600,Alkes
+601,New Hope
+602,Tania Borealis
+603,Semenyih
+604,Castrovia
+605,New Oslo
+606,Cordiagr
+607,Homestead
+608,Moravian
+609,Silkeborg
+610,Beecher
+611,Brusett
+612,Elidere
+613,Tarkio
+614,Covington
+615,Alterf
+616,Kandersteg
+617,Salur
+618,Itabaiana
+619,Osmus Saar
+620,Avawatz
+621,Faleolo
+622,New Westin
+623,Bastian
+624,Home
+625,Sargasso
+626,Altorra
+627,Spica
+628,Petrolia
+629,Tomans
+630,Alula Borealis
+631,Megrez
+632,Loeches
+633,Allerton
+634,Galax
+635,Wetumpka
+636,Daniels
+637,Peacock
+638,Sverdlovsk
+639,Merak
+640,Vipaava
+641,Manapire
+642,Kakada
+643,Trellisane
+644,Ngake
+645,New Aragon
+646,Capac
+647,Gulkana
+648,Hongqiao
+649,Porrima
+650,Avigait
+651,Huron
+652,Diass
+653,Matheran
+654,Asgard
+655,Corella
+656,Kamenz
+657,Cavanaugh
+658,Mackenzie
+659,Mualang
+660,Okains
+661,Acamar
+662,Sorunda
+663,Iknogoro
+664,Biota
+665,Nizina
+666,Loongana
+667,Rexburg
+668,Milnerton
+669,Purvo
+670,Anaheim
+671,Wilkes
+672,Apollo
+673,Galatea
+674,Anegasaki
+675,Andurien
+676,Antietam
+677,Ardoz
+678,Alrescha
+679,Alcyone
+680,Dahar
+681,Chilung
+682,Redfield
+683,Taurus
+684,Noatak
+685,Kutludugun
+686,Biuque
+687,Crimond
+688,Calseraigne
+689,Angol
+690,Skandia
+691,Molokai
+692,Gallatin
+693,Sophie's World
+694,Notwina
+695,Sanda
+696,Clipperton
+697,Rasalhague
+698,Taga
+699,Havdhem
+700,Ingenstrem
+701,Barlaston
+702,Pilkhua
+703,El Dorado
+704,Jiddah
+705,Shiro
+706,Tamar
+707,New Rhodes
+708,Aconcagua
+709,Ashburton
+710,Utrecht
+711,Braunton
+712,Eromanga
+713,Clinton
+714,Xinyang
+715,Kaiyuh
+716,Colfax
+717,Guangzho
+718,New Bergen
+719,Keihoku
+720,Shasta
+721,Calpaca
+722,Maule
+723,Holmsbu
+724,Menke
+725,Cotocallao
+726,Verde
+727,Rzhishchev
+728,Suk
+729,Kasdach
+730,Islamabad
+731,Duran
+732,Hindmarsh
+733,Ayn Tarma
+734,Nihal
+735,Chebanse
+736,New Syrtis
+737,Nullarbor
+738,Westerhand
+739,Chagos
+740,Donegal
+741,Cameron (FWL)
+742,Grumium
+743,Tanh Linh
+744,Alsek
+745,Willowick
+746,Simpson Desert
+747,Pella
+748,New Samarkand
+749,Danais
+750,Kanata
+751,Cusset
+752,Paradise
+753,Fujidera
+754,Benjamin
+755,Dyfed
+756,Jaipur
+757,Zebebelgenubi
+758,Raphael
+759,Trondheim
+760,Port Arthur
+761,Colorado
+762,Ipswich
+763,Tapachula
+764,Tania Australis
+765,Calloway
+766,Babuyan
+767,Numenor
+768,Chalouba
+769,Philadelphia
+770,Minderoo
+771,Delavan
+772,Richvale
+773,Isabela
+774,Palladaine
+775,Nox
+776,Luthien
+777,Maldonado
+778,Unity
+779,Pobeda
+780,Cirebon
+781,Hiratsuka
+782,Lengkong
+783,Ionus
+784,Bellatrix
+785,Thule
+786,Wernke
+787,Delphos
+788,Chirala
+789,Ulysses
+790,Gannett
+791,Karbala
+792,Quittacas
+793,Loric
+794,Ford
+795,Al Jubaylah
+796,Grunwald
+797,Frondas
+798,Sakai
+799,Shibukawa
+800,Worrell
+801,Chinmen Tao
+802,Ankolika
+803,Dickinson
+804,Svelvik
+805,Galedon
+806,Chirikof
+807,Fadiffolu
+808,Pattonsbrug
+809,Kearny
+810,Birqash
+811,O'Fallon
+812,Rosiclare
+813,Westover
+814,Atlas
+815,Miyada
+816,Tamarind
+817,Karachi
+818,Vosloorus
+819,Hellos Minor
+820,Atocongo
+821,Hillerod
+822,Kurvasa
+823,Verlo
+824,Glentworth
+825,Kagoshima
+826,Torrence
+827,Sertar
+828,Mizunami
+829,Fairfax
+830,Morrill
+831,Killarney
+832,Bella
+833,Fieferana
+834,Skallevoll
+835,Tishomingo
+836,Mauckport
+837,Ellsworth
+838,Campbelton
+839,Cole Harbour
+840,Tiflis
+841,Ban Na San
+842,Gatchina
+843,Hainfeld
+844,Rubigen
+845,Bluford
+846,Cajamarca
+847,Antipolo
+848,Kirei Na Niwa
+849,Manassas
+850,Tohelet
+851,Fatima
+852,Shiba
+853,Satalice
+854,Reese Station
+855,Albert Falls
+856,Scarborough
+857,Omagh
+858,Annapolis
+859,Darwendale
+860,Atsugi
+861,Vikindu
+862,Arcturus
+863,Furud
+864,McKenna
+865,Newcastle
+866,Baldur
+867,Chatham
+868,Hobbs
+869,Sighisoara
+870,Mansu-ri
+871,Shuen Wan
+872,Eleusis
+873,June
+874,Mirage
+875,Toland
+876,Savonburg
+877,Carlisle
+878,York
+879,Lancaster (LC)
+880,Bowang
+881,Predlitz
+882,Thimphu
+883,Panpour
+884,Linneus
+885,Hudeiba
+886,Pesht
+887,Fetsund
+888,Olindo
+889,Outpost
+890,Urich
+891,Jesup
+892,Diamantina
+893,Star's End
+894,Sadurni
+895,Kilmarnock
+896,Samantha
+897,As Samik
+898,Gurrnazovo
+899,Steinhatchee
+900,Kwamashu
+901,Alorton
+902,Deneb Algedi
+903,Renfield
+904,Cyrton
+905,Basantapur
+906,Ishtar
+907,Vaucluse
+908,Wotan
+909,Steelton
+910,Kaznejoy
+911,Diboll
+912,Bjarred
+913,Lurgatan
+914,Anywhere
+915,Conroe
+916,Bensinger
+917,Reykavis
+918,Jeronimo
+919,Diefenbaker
+920,Augusta
+921,Gotterdammerung
+922,Lackhove
+923,Golandrinas
+924,Derf
+925,Winfield
+926,Persistence
+927,Icar
+928,Amity
+929,Latice
+930,Mandaree
+931,Brockway
+932,Kesai
+933,Chateau
+934,Bromhead
+935,Moultrie
+936,Goetville
+937,Midale
+938,Trondheimal
+939,Loxley
+940,Barcelona
+941,Erewhon
+942,Hyalite
+943,Kendall
+944,Black Earth
+945,Guatavita
+946,Trasjkis
+947,Rijeka
+948,New Vandenburg
+949,Beta
+950,Tentativa
+951,Gibraltar
+952,Ridderkerk
+953,Pinard
+954,Illyria
+955,Chahar
+956,Carmichael
+957,Malibu
+958,Baker 3
+959,Hassad
+960,Kaumberg
+961,Medellin
+962,Gallitzin
+963,Machida
+964,Robsart
+965,Lopez
+968,Blumenort
+969,Kansu
+971,Somerset
+978,Zanzibar
+979,Corodiz
+980,Mendham
+981,Novaya Zemlya
+982,Ryerson
+983,Mosiro
+984,Tharkad
+985,Meacham
+986,Palmyra
+987,Sabik
+988,Albalii
+989,Alpheratz
+990,St. John
+991,Parma
+992,Concord
+993,Betelgeuse
+994,Bolan
+995,Rahne
+996,Halfway
+997,Tellman's Mistake
+998,Alarion
+999,Tukayyid
+1000,Trolloc Prime
+1001,Poulsbo
+1002,Echo
+1003,Dar-es-Salaam
+1004,Royalston
+1005,Ankaa
+1006,Dalton
+1007,Kluane
+1008,Sekulmun
+1009,Nahoni
+1010,Meadowvale
+1011,Canopus
+1012,Ashley
+1013,Victoria
+1014,Belladonna
+1015,Great Gorge
+1016,Cerberus
+1017,Kigamboni
+1018,Schirmeck
+1019,Delacruz
+1020,Weisau
+1021,Pondicherry
+1022,Tabayama
+1023,Malagrotta
+1024,Hardcore
+1025,Vakarel
+1026,Umka
+1027,Gouderak
+1028,Caldwell
+1029,Pierce
+1030,Thurrock
+1031,Wrentham
+1032,Ridgebrook
+1033,Keuterville
+1034,Naka Pabni
+1035,Tancredi
+1039,Pleiades Cluster
+1040,New Abilene
+1041,Flintoft
+1042,Weippe
+1043,Budingen
+1044,Groveld
+1045,Valentina
+1046,Bryceland
+1047,Bad News
+1048,Sevon
+1049,Kennard
+1050,Pitkin
+1051,Rollis
+1052,Firgrove
+1053,Warren
+1054,Cohagen
+1055,Zlatousi
+1056,Kazanka
+1057,Haynesville
+1058,Tellman
+1059,Hazelhurst
+1060,Bastrop
+1061,Inner End
+1062,Montour
+1063,Tortuga Prime
+1064,Novo Franklin
+1065,Nova Roma
+1066,Camlann (LC)
+1067,Algenib
+1068,Antallos
+1069,Micanos
+1070,Joyz
+1071,Herotitus
+1072,Lothario
+1073,Albiero
+1074,Niops
+1075,Bone-Norman
+1076,Circinus
+1082,New St. Andrews
+1084,Spencer
+1085,Detroit
+1086,Rockwellawan
+1087,Portland
+1088,Luxen
+1091,Winfield (FS)
+1092,Astrokaszy
+1093,Lummatii
+1094,Logan Prime
+1095,Lordinax
+1096,Lindassa
+1097,Leximon
+1098,Randis
+1099,Alphard (MH)
+1100,Dormandaine
+1101,Blantleff
+1102,Hardisey's Haven
+1103,Andiron
+1104,Larsha
+1105,Addhara
+1106,Stafford
+1107,Mirfak
+1108,Clayborne
+1109,Maximillian
+1110,Celano
+1111,Diedre's Den
+1112,Thadora's Land
+1113,Baccalieu
+1114,Islington
+1115,Zorn's Keep
+1116,Baltazar
+1117,Pompey
+1118,Suetonius
+1119,Early Dawn
+1120,Vixen
+1121,Elissa
+1122,Laconis
+1123,MacLeod's Land
+1124,Illiushin
+1125,Sterope
+1126,Euschelus
+1127,Perdition
+1128,Organo
+1129,Lushann
+1130,Kufstein
+1131,New Hati
+1132,New Port Royal
+1133,New Gascony
+1134,Morgan's Holdfast
+1135,Cate's Hold
+1136,Oberon
+1137,Ferris (OC)
+1138,Santander
+1139,Quantraine
+1140,Fletcher's Feast
+1141,Zebeneschamali
+1142,Coventry
+1143,Highspire
+1144,Dante
+1145,Cebalrai
+1146,Horsham
+1147,Kathil
+1148,Lindsay
+1149,Deneb Kaitos
+1178,Waypoint
+1179,Otisberg
+1180,Paulinus
+1181,Gillfillan's Gold
+1182,Slewis
+1183,New Venice
+1184,Marius's Tears
+1185,Viborg
+1187,All Dawn
+1188,New India
+1189,Hinckley
+1190,Enders Cluster
+1191,Timbuktu
+1192,Caldarium
+1193,Halifax
+1194,Horatius
+1195,Wiltshire
+1196,Ormstown
+1197,Cruz Alta
+1198,Karkkila
+1199,Althastan
+1200,Shahr Kord
+1201,Aberystwyth
+1202,Langhorne
+1203,Florida
+1204,Sarikavak
+1205,Pocologan
+1206,Coldbrook
+1207,Son Hoa
+1208,Sapienza
+1209,Urjala
+1210,Lost
+1211,Kladnitsa
+1212,Stanley
+1213,Teyvareb
+1214,Al Jafr
+1215,Rapla
+1216,Amminadav
+1217,Sierra
+1218,Hazeldean
+1219,Pain
+1220,Issaba
+1221,Alekseyevka
+1222,Qurayyat
+1223,Ayacucho
+1224,Landfall
+1225,Revivim
+1226,Firenze
+1227,Ballalaba
+1228,The Rack
+1229,Buena
+1230,Madiun
+1231,Kwangjong-ni
+1233,Ilzra
+1234,Venaria
+1235,Huntington
+1236,Mercedes
+1237,Merton
+1238,Stantsiya
+1239,Lahti
+1241,Sackville
+1242,Aylmer
+1243,San Nicolas
+1244,Ferihegy
+1245,Ma'anshan
+1246,Aiguebelle
+1247,Dalcour
+1248,Khon Kaen
+1249,Valloire
+1250,Akfata
+1251,Champadanga
+1252,Enzesfled
+1253,Chiavenna
+1254,Tormentine
+1255,Etiler
+1256,Main Street
+1257,Canal
+1258,Atzenbrugg
+1259,Qanatir
+1260,Maxwell
+1261,Lepaterique
+1262,Kostinbrod
+1263,Rajkot
+1264,Niangol
+1265,Elume
+1266,Manotick
+1267,Binyang
+1268,Batajnica
+1269,Cerillos
+1270,Hammer
+1271,Krung Thep
+1272,Virtue
+1273,Sappir
+1274,Calafell
+1275,Premana
+1276,Novara
+1277,Hednesford
+1278,Moriguchi
+1279,Tainjin
+1280,Inchicore
+1282,Vermezzo
+1283,Swartklip
+1284,Mezzana
+1285,Kelang
+1286,Galisteo
+1287,Kogl
+1288,Vihtijarvi
+1289,Romita
+1290,Tsarahavana
+1291,Acrux
+1292,Biloela
+1293,Engadine
+1294,Nouasseur
+1295,Baryshevo
+1296,Corbeanca
+1297,Pencader
+1298,Triesting
+1299,Stotzing
+1300,Danxian
+1301,Maderas
+1302,Chhaprauli
+1303,Maisons
+1304,Howick
+1305,Millerton
+1306,Schererville
+1307,Neerabup
+1308,Silver
+1309,Edmondson
+1310,Jubka
+1311,Zwipadze
+1312,Bobruisk
+1313,Qarahta
+1314,Nuneaton
+1315,Prato
+1316,Strandfontein
+1317,Ellijay
+1318,Griffith
+1319,Timbiqui
+1320,Willunga
+1321,Penobscot
+1322,Goth Khakar
+1323,Kvistgard
+1324,Ciampino
+1325,Abramkovo
+1326,Ewanrigg
+1327,Curaumilla
+1328,Valil'yevskiy
+1329,Khartoum
+1330,Schiedam
+1331,Bucklands
+1332,Loburg
+1333,Quilino
+1334,Thraxa
+1335,Zaprudy
+1336,Jerangle
+1337,Abbadiyah
+1338,Czarvowo
+1339,Conakry
+1340,Epsilon
+1341,Vendrell
+1342,Lesnovo
+1343,Kilarney
+1344,Storfors
+1345,Zdice
+1346,Saltillo
+1347,Trentham
+1348,Herzberg
+1349,Noisiel
+1350,Radostov
+1351,Ghaziabad
+1352,Tangua
+1353,Tiruppur
+1354,Karakiraz
+1355,Mandaoaaru
+1356,Australia
+1357,Gulf Breeze
+1358,Promised Land
+1359,Kosciusko
+1360,Jatznik
+1361,Tchamba
+1362,Campoleone
+1363,Abejorral
+1364,Winter
+1365,Wolof
+1366,Panjang
+1369,Inarcs
+1370,Tapihue
+1371,Kowloon
+1372,Finsterwalde
+1373,Anembo
+1374,Negushevo
+1375,Recife
+1376,Miquelon
+1377,Millungera
+1378,Arluna
+1379,Gypsum
+1380,Rosice
+1381,Windsor
+1382,Saravan
+1383,Tematagi
+1384,Ballad
+1385,Hood
+1386,Brooloo
+1387,Jesenice
+1388,Gambilon
+1389,Timehri
+1390,Drosendorf
+1391,Medzev
+1392,Kwangchowwang
+1393,Labouchere
+1394,Ibarra
+1395,Mankova
+1396,New Capetown
+1397,Adelaide
+1398,Pangkalan
+1399,Marantha
+1401,Bismarck
+1402,Weistheimer
+1403,Tsinan
+1404,Bayindir
+1405,Ludwigshafen
+1406,Gatineau
+1407,Palladix
+1408,Kolovraty
+1409,Chapultepec
+1410,Annunziata
+1411,Booker
+1412,Tuamotu
+1413,Vorzel
+1414,Zwenkau
+1415,Mahone
+1416,Kossandra's Memory
+1417,Techne's Revenge
+1418,Tarol
+1419,Newtown Square
+1420,Greenlaw
+1421,Horneburg
+1422,Mississauga
+1423,Preston (FWL)
+1424,Cascade
+1425,Melissia
+1426,Sharqah
+1427,Eilenburg
+1428,Howrah
+1429,Upano
+1430,Bass
+1431,Katlehong
+1432,Wildwood
+1433,Escobas
+1434,Afarsin
+1435,Mogyorod
+1436,Uzhgorod
+1437,Wrociaw
+1438,Clermont
+1439,Crawford's Delight
+1440,Glevakha
+1441,Zhongshan
+1442,Lindenmarle
+1443,Candiear
+1444,Kikuyu
+1445,Tetersen
+1446,Payvand
+1447,Gibbs
+1448,Incukalns
+1449,Santana
+1450,Timkovichi
+1451,Royal Foxx
+1452,Thuban
+1453,Atreus
+1454,Rohinjan
+1455,Bethonolog
+1456,Obrenovac
+1457,Blue Hole
+1458,Harminous
+1459,Roadside
+1460,Great X
+1461,Dukambia
+1462,Zanderij
+1463,Botany Bay
+1464,Deia
+1465,Ruschegg
+1466,Gallis
+1467,Cameron (LC)
+1468,Megarez
+1469,Novo Tressida
+1470,Saonara
+1471,Hot Springs
+1472,Nestor
+1473,Arc-Royal
+1474,Launam
+1475,Mauripur
+1477,Kooken's Pleasure Pit
+1478,Pasig
+1479,Bondurant
+1480,Krimari
+1481,Mkuranga
+1482,Yeguas
+1483,Von Strang
+1484,Last Chance
+1485,Trznadel Cluster
+1486,Wisconsin
+1487,Skvorec
+1488,Esteros
+1489,Blackjack
+1490,Callisto
+1491,Goat Path
+1492,Camlann (FWL)
+1493,Hamilton (LC)
+1494,Here
+1495,Scheuerheck
+1496,Fianna
+1498,Babaeski
+1499,Bountiful Harvest
+1500,Alyina
+1501,Adherlwin
+1502,Lockton
+1503,Yanchep
+1504,Parakoila
+1505,Waldorff
+1506,Crevedia
+1507,Butler
+1508,Halmyre Deans
+1509,New Kyoto
+1510,Blackstone
+1511,A Place
+1512,Cap Rouge
+1513,Hesperus
+1514,Adhara
+1515,Canonbie
+1516,Aspropirgos
+1517,Watermael
+1518,Fanardir
+1519,Placida
+1520,Apolakkia
+1522,Siendou
+1523,Trell
+1524,Denizli
+1526,Devin
+1527,Ginestra
+1528,Twycross
+1529,Butzfleth
+1530,Whittington
+1532,Borgan's Rift
+1533,Dustball
+1534,Sigurd
+1536,Palm
+1537,Butte Hold
+1538,Graus
+1539,Vindemiatrix
+1540,Blair Atholl
+1541,Piriapolis
+1542,Granera
+1543,Edasich
+1544,Maxie's Planet
+1545,Shenwan
+1546,Maritgues
+1547,Evciler
+1548,Brixtana
+1549,Surcin
+1550,Leskovik
+1551,Romulus
+1552,Ingonish
+1553,Villanueva
+1554,Deschenes
+1555,Drask's Den
+1556,Sudeten
+1557,Crellacor
+1558,The Rock
+1559,Ballynure
+1560,Fagerholm
+1561,Seiduts
+1562,Borghese
+1563,Zoetermeer
+1564,Leganes
+1565,Dunianshire
+1566,Dompaire
+1567,Paulus Prime
+1568,Vantaa
+1571,Leyda
+1573,Csesztreg
+1574,El Giza
+1576,Xanthe
+1577,Vulcan
+1578,Gustrell
+1579,Colmar
+1580,Dainmar Majoris
+1581,Harvest
+1582,Svarstaad
+1583,Dell
+1584,Montmarault
+1585,New Caledonia
+1586,Verthandi
+1587,Planting
+1588,Claybrooke
+1590,Cursa
+1591,Gomeisa
+1592,Orkney (LC)
+1593,Carbonis
+1594,Laurent
+1595,Yed Posterior
+1597,Rasalgethi
+1598,Skokie
+1599,Marfik
+1600,Kirchbach
+1601,Les Halles
+1602,Mozirje
+1603,Wallacia
+1604,Basiliano
+1605,Rastaban
+1606,The Edge
+1607,Eaglesham
+1608,Domain
+1609,Fort Loudon
+1610,Moritz
+1611,Shaula
+1612,Quarell
+1613,Wheel
+1614,Manaringaine
+1615,Addasar
+1616,Lovinac
+1617,Goodna
+1618,Jabuka
+1619,Dalkeith
+1621,Kujari
+1622,Bessarabia
+1625,Volders
+1627,Pilpala
+1628,Second Chance
+1629,Liezen
+1630,Feltre
+1631,Hyperion
+1632,Weingarten
+1633,Hohenems
+1635,Harsefeld
+1636,Nyserta
+1637,Rodigo
+1638,Carse
+1639,Galuzzo
+1640,Kobe
+1641,Ueda
+1642,Exedor
+1643,Karston
+1644,Alleghe
+1645,Conquista
+1646,Thannhausen
+1647,New Roland
+1648,Krin
+1649,Kandis
+1650,Fronde
+1651,Bruben
+1652,Shionoha
+1653,Andarmax
+1656,Diosd
+1657,Sax
+1658,Niomede
+1659,Ramsau
+1660,Principia
+1661,Unzmarkt
+1663,Heiligendreuz
+1666,Memmingen
+1667,Sigma Mare
+1669,Ito
+1671,Lesalles
+1672,Phact
+1673,Gunzburg
+1674,Jacomarle
+1675,Stanzach
+1676,Claxton
+1677,Repulse
+1678,Buenos Aires
+1679,Shirotori
+1680,Elnath
+1681,Engadin
+1682,Dicon
+1683,Barras
+1684,Turin
+1685,Corey
+1686,Raballa
+1688,Hermagor
+1689,Ferleiten
+1690,Wright
+1691,Yunnah
+1692,Carmen
+1693,Glasgow
+1694,Balsta
+1695,Dawn
+1696,Drozan
+1697,Second Try
+1698,Halesowen
+1699,Eguilles
+1700,Prix
+1702,Bora
+1703,Gunthar
+1705,Primus
+1706,Leoben
+1707,Radstadt
+1708,Renown
+1710,Sendalor
+1711,Setubal
+1712,Decus
+1713,Goito
+1714,Kempten
+1716,Grand Base
+1717,Overton
+1718,Chandler
+1720,Mannedorf
+1721,Numki
+1722,Kiesen
+1723,Borden
+1724,Susquehanna
+1725,Sarmaxa
+1726,Decatur
+1727,Hustaing
+1728,No Return
+1729,Pomme De Terre
+1730,Krenice
+1731,Radlje
+1732,Alshain
+1733,Spittal
+1735,Kaesong
+1736,Meilen
+1737,Cavalor
+1738,Randar
+1739,Sakhalin (CC)
+1740,Marawi
+1741,Sternwerde
+1742,Sheliak
+1743,Holloway
+1744,Darius
+1745,Vestallas
+1747,Egress
+1748,Ziliang
+1749,Velhas
+1750,Relevow
+1751,Madras
+1752,Kiamba
+1753,Kaifeng
+1754,Pinnacle
+1755,Ward
+1756,Damian
+1757,Thessalonika
+1758,Vard
+1759,Columbine
+1760,Casere
+1761,Hurik
+1762,Matsu
+1763,Dumaring
+1764,Last Frontier
+1765,Immenstadt
+1766,Kittery
+1767,Ogano
+1768,Quimberton
+1769,Ambergrist
+1771,Pojos
+1772,Xieng Khouang
+1773,Heligoland
+1774,Soverzene
+1775,Scituate
+1776,Jezersko
+1777,Mandate
+1779,Porthos
+1780,Gurnet
+1781,Shimonita
+1782,Courchevel
+1783,Remshield
+1784,Nashuar
+1785,Weatogue
+1787,Paracale
+1788,Constance
+1789,Ikast
+1790,Tantara
+1791,Jarett
+1792,Baruun Urt
+1793,Armaxa
+1794,Muridox
+1796,Mitchel
+1797,Polcenigo
+1798,Jacson
+1799,Texlos
+1800,Lapida
+1801,Mentasta
+1802,Jonzac
+1803,Monhegan
+1804,Kafr Silim
+1806,Tallin
+1807,Warlock
+1809,Cadiz
+1810,Schuyler
+1811,Nykvarn
+1812,Idlewind
+1813,Shoreham
+1814,Luzerne
+1815,Beid
+1818,Garstedt
+1819,Tarazed
+1820,Sirdar
+1821,Teng
+1823,Frazer
+1824,Richmond
+1825,Byesville
+1826,Dover
+1827,Yuris
+1828,Hadnall
+1829,Haappajarvi
+1830,Labrea
+1831,Bethel
+1832,Courcellete
+1833,Savinsville
+1834,Andro
+1835,Caripare
+1836,Wolcott
+1837,Abruzzi
+1839,Rockland
+1840,Avon
+1841,Listowel
+1842,Orbisonia
+1844,Turtle Bay
+1845,Regis Roost
+1846,Brisbane
+1847,Outer Volta
+1848,Aea
+1849,Bacum
+1850,Vanern
+1851,Shaunavon
+1852,Matar
+1853,Juazeiro
+1854,Marshdale
+1855,Almunge
+1856,Amiga
+1857,Yardley
+1858,Hanover
+1859,Yumesta
+1860,Apriki
+1861,Klathandu
+1862,Reisling's Planet
+1863,Schwartz
+1864,Aucara
+1865,Bangor
+1866,Landmark
+1867,Argos
+1868,Bristol
+1869,New Mendham
+1870,Irece
+1871,Coudoux
+1872,Koping Chian
+1873,Flaum
+1874,Minowa
+1875,Beenleigh
+1876,Carmacks
+1877,Jansen's Hold
+1878,Teniente
+1879,Burton
+1880,Manteno
+1881,New Vallis
+1882,Fortymile
+1883,Corsica Nueva
+1884,Jamestown
+1885,New Ganymede
+1886,Taygeta
+1887,Virentofta
+1888,Carthage
+1889,Meinacos
+1890,Hyner
+1891,Layover
+1892,Tatsuno
+1893,Cumberland
+1894,Kabah
+1895,Le Blanc
+1897,Hobson
+1898,Camadeierre
+1899,Stapelfeld
+1900,Mordialloc
+1901,Spitz
+1902,Markesan
+1903,Jeanette
+1904,McComb
+1905,Togura
+1906,Mithron
+1907,Herndon
+1908,Victoria (FS)
+1909,McAlister
+1910,New Ivaarsen
+1911,Atreus Prime
+1912,Chupadero
+1913,Kaitangata
+1914,Hellespont
+1915,Strawn
+1916,Ebensburg
+1917,Wapakoneta
+1918,Oshika
+1920,Cheriton
+1921,Midway
+1922,Montcoal
+1923,Sawyer
+1924,Matamoras
+1925,Oltepesi
+1926,Emporia
+1927,New Aberdeen
+1928,Lonaconing
+1929,Tuscarawas
+1930,Ipava
+1932,Benet
+1933,Clearfield
+1934,Bettendorf
+1935,Bergman's Planet
+1936,Lothair
+1937,Tarnby
+1938,Bogard
+1940,Drienfontein
+1941,Davetal
+1942,Amber Grove
+1943,New Damascus
+1944,Handa
+1945,Macksburg
+1946,Sakhara
+1947,Isesaki
+1948,Kirklin
+1949,Matsuida
+1950,Northfield
+1951,Waxell
+1952,Sakuranoki
+1953,Altona
+1954,Die Moot
+1955,Grosvenor
+1956,Kiserian
+1957,Cahokia
+1958,Hassi R'mel
+1959,Fairfield
+1960,Igualada
+1962,Steeles
+1963,Loysville
+1964,Chapineria
+1965,Marodzi
+1966,Evansville
+1967,Enchi
+1968,Kaguyak
+1969,Semichi
+1970,Chakachamna
+1971,Espakeh
+1972,Maynard
+1973,Gravenhage
+1974,Paulding
+1975,Colchester
+1976,Potwin
+1977,Leipsic
+1978,Leyland
+1979,Grossbach
+1980,Tegaldanas
+1981,Gant
+1982,Nadrin
+1983,Ningxia
+1984,Charity
+1985,Lexington
+1986,Reisterstown
+1987,Udibi
+1988,Kotzebue
+1989,Newton
+1990,Cassias
+1991,Qandahar
+1993,Nunivak
+1994,Algate
+1995,Hartshill
+1996,Logan's Land
+1997,Sun Prairie
+1998,Slaithwaite
+1999,Delitzsch
+2000,Brailsford
+2001,Songgang
+2002,Bellevue
+2003,McGehee
+2004,Norman's World
+2005,Hecheng
+2006,Chorley
+2007,Altdorf
+2008,Belaire
+2009,Choudrant
+2010,Salford
+2011,Celentaro
+2012,Capra
+2013,Macomb
+2014,Linqing
+2015,Dicallus
+2016,Sparrevohn
+2017,Damevang
+2018,Senorbi
+2019,Waldheim
+2020,Kamarod
+2021,Quincy
+2022,Monywa
+2023,Abiy Adi
+2024,Euclid
+2025,Cambiano
+2026,Necedah
+2027,Brihuega
+2028,Gambarare
+2029,Colia
+2030,Macintosh
+2031,Micros
+2032,Ad Duwayd
+2033,Cimeron
+2034,Point Barrow
+2035,Multan
+2036,Melcher
+2037,Nowhere
+2038,Tatlawiksuk
+2039,Koulen
+2040,Korramabad
+2041,Pusht-i-rud
+2042,Verdigreis
+2043,Keytesville
+2044,Huaide
+2045,Soul
+2046,Orkney (TC)
+2047,Althea's Choice
+2048,Abagnar
+2049,Sinope
+2050,Birmensdorf
+2051,Zalaf
+2052,Agliana
+2053,Hongor
+2054,Andalusia
+2055,Ramgarh
+2056,Meinrad
+2057,Latexo
+2058,Mansfield
+2059,Bonneau
+2060,Estuan
+2061,Niles
+2062,Ottumwa
+2063,Junior
+2064,Monroe
+2065,Brundage
+2066,Mayetta
+2067,Neukirchen
+2068,Niquinohomo
+2069,Land's End
+2070,Waimalu
+2071,Charleston
+2073,Anguilla
+2074,Cerulean
+2075,Kokpekty
+2077,Sullivan
+2078,Princton
+2079,Sturgis
+2080,Carvajal
+2081,Rezak's Hole
+2082,Suianheer
+2083,Armington
+2084,Sylvan
+2085,Lihue
+2086,Defiance
+2087,Pirate's Haven
+2088,Waipahu
+2089,Mokane
+2090,Csomad
+2091,Tyrrhenia
+2092,Lyceum
+2093,Enif
+2094,Pascagoula
+2095,Weldon
+2096,Alegro
+2097,Baxley
+2098,Hickok
+2100,St. Robert
+2101,Dothan
+2102,Sabanillas
+2103,Brasha
+2104,Dindatari
+2105,Brookeland
+2106,Fuveau
+2107,Kinkaid
+2108,Morthac
+2109,Belle Isle
+2110,De Berry
+2111,Kettering
+2112,Perdido
+2113,Tsamma
+2114,Vicente
+2115,Adrian
+2116,Baranda
+2117,Greeley
+2118,Milligan's World
+2119,Protection
+2120,Crestoblus
+2121,Redondo
+2122,Calish
+2123,Hephzibah
+2124,Xenia
+2125,Colchis
+2126,Eustatius
+2127,Shubuta
+2128,Molino
+2129,Hoonaar
+2130,Chanute
+2131,Broaddus
+2132,Dneiper
+2133,Gronholt
+2134,Vackisujfalu
+2135,Quiberas
+2136,Nagel
+2137,Minette
+2138,Mejicanos
+2139,Adelson
+2140,Prinis Prime
+2141,Benedict
+2142,Rushaven
+2143,Milligan
+2144,Vandalia
+2145,Pajarito
+2146,Mitchella
+2147,Davisville
+2148,Jaboatao
+2149,Quatre Belle
+2150,Risin
+2151,Erod's Escape
+2152,Symsonia
+2153,Hortense
+2154,Coraines
+2155,Ramora
+2156,Sodertalje
+2157,Banori
+2158,Des Arc
+2159,Jordan Wais
+2160,Marknick
+2161,Gillingham
+2162,Woodbine
+2163,Hoyleton
+2164,Alta Vista
+2165,Filtvelt
+2166,Kirbyville
+2167,Mishkadrill
+2168,Gaul
+2169,Mermentau
+2170,Cogdell
+2171,Crofton
+2172,Sterlington
+2173,Kountze
+2174,Stratford
+2175,Mararn
+2176,Zolfo
+2177,Marielund
+2178,Loparri
+2179,Skepptana
+2180,Diik
+2181,Vibrunum
+2182,Brockton
+2183,Metter
+2184,Rudolpho
+2185,Broken Wheel
+2186,Delacambre
+2187,Morven
+2188,Lackland
+2189,Praxton
+2190,Oscar
+2191,Neosho
+2192,Hahira
+2193,Altoona
+2194,Humansville
+2195,Shawnee
+2196,McRae
+2197,Inman
+2198,Farnsworth
+2199,Memphis
+2200,Ebro
+2201,Sherwood
+2202,Lastpost
+2203,Rentz
+2204,Trimaldix
+2205,Kilbourne
+2206,Offerman
+2207,Thibodaux
+2209,Chenier
+2210,Arnaudville
+2211,Ferris (OA)
+2212,Beaumont
+2213,Rosepine
+2214,Anjin Muerto
+2215,Pattison
+2217,Valasha
+2218,Bassfield
+2219,Tangipahoa
+2220,Baliggora
+2221,Boondock
+2223,Raldamax
+2225,Abbeville
+2226,Okefenokee
+2227,Cohay
+2228,Millray
+2229,Delos
+2230,Hivrannee
+2231,Kentwood
+2232,Brocchi's Cluster
+3450,JP-H-405
+3451,JP-W-395
+3452,JP-V-405
+3453,JP-S-425
+3454,JP-R-381
+3455,JP-X-348
+3456,JP-K-315
+3457,JP-H-664
+3458,JP-C-719
+3459,JP-V-707
+3460,JP-AA-632
+3461,JP-M-774
+3462,JP-AA-730
+3463,HD-276914
+3464,HD-417328
+3465,JP-P-59
+3466,JP-X-29
+3467,JP-L-18
+3468,JP-J-47
+3469,JP-L-37
+3470,JP-F-35
+3471,JP-A-109
+3472,JP-AA-64
+3473,JP-H-158
+3474,JP-I-160
+3475,JP-B-240
+3476,JP-S-273
+3477,JP-B-276
+3478,JP-I-402
+3479,JP-I-408
+3480,JP-L-400
+3481,JP-T-462
+3482,JP-W-560
+3483,JP-D-657
+3484,JP-S-710
+3485,JP-AA-756
+3486,JP-E-736
+3487,JP-G-690
+3488,JP-S-677
+3489,JP-P-815
+3490,JP-G-657
+3491,JP-AA-604
+3492,JP-S-305
+3493,JP-H-287
+3494,JP-K-241
+3495,JP-Q-39
+3496,JP-O-329
+3497,HD-389202
+3498,HD-348126
+3499,HD-367482
+3500,HD-438297
+3501,HD-384971
