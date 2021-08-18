@@ -1,0 +1,26 @@
+{
+   "displayName" : "Universe",
+   "version" : "1.0",
+   "buildNumber" : 23,
+   "description" : "",
+   "author" : "diji",
+   "authorURL" : "",
+   "defaultLoadOrder" : 0,
+   "gameVersion" : "1.1.0",
+   "manifest" : [
+      "/Game/Campaign/CampaignArcs/BorderChanges/3015_GameStart/Borders3015.uasset",
+      "/Game/Campaign/CampaignArcs/BorderChanges/3025_ThirdSuccession/Borders3025.uasset",
+      "/Game/Campaign/CampaignArcs/BorderChanges/3029_FormationOfTikinovAndStIves/Borders3029.uasset",
+      "/Game/Campaign/CampaignArcs/BorderChanges/3030_FourthSuccession/Borders3030.uasset",
+      "/Game/Campaign/CampaignArcs/BorderChanges/3031_TikinovJoinsFederatedSuns/Borders3031.uasset",
+      "/Game/Campaign/CampaignArcs/BorderChanges/3034_RassalhaugeRecognized/Borders3034.uasset",
+      "/Game/Campaign/CampaignArcs/BorderChanges/3039_WarOf3039/Borders3039.uasset",
+      "/Game/Campaign/CampaignArcs/BorderChanges/3041_FormationOfFederatedCommonwealth/Borders3041.uasset",
+      "/Game/Libraries/MW5_FunctionLibrary.uasset",
+      "/Game/UI/FrontEnd/StarSystemScreen.uasset",
+      "/Game/UI/FrontEnd/Starmap/StarSystemBody.uasset"
+   ],
+   "steamPublishedFileId" : 0,
+   "steamLastSubmittedBuildNumber" : 0,
+   "steamModVisibility" : "Private"
+}

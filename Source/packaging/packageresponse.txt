@@ -1,0 +1,6 @@
+"F:\Games\Epic Library\MechWarrior5Editor\MW5Mercs\Saved\Cooked\WindowsNoEditor\MW5Mercs\Content\UniverseMod\MW5_InnerSphereData.uasset" "../../../MW5Mercs/Content/InnerSphereData/"
+"F:\Games\Epic Library\MechWarrior5Editor\MW5Mercs\Saved\Cooked\WindowsNoEditor\MW5Mercs\Content\UniverseMod\MW5_InnerSphereData.uexp" "../../../MW5Mercs/Content/InnerSphereData/"
+"F:\Games\Epic Library\MechWarrior5Editor\MW5Mercs\Saved\Cooked\WindowsNoEditor\MW5Mercs\Content\UniverseMod\StarMap.umap" "../../../MW5Mercs/Content/Levels/FrontEnd/"
+"F:\Games\Epic Library\MechWarrior5Editor\MW5Mercs\Saved\Cooked\WindowsNoEditor\MW5Mercs\Content\UniverseMod\StarMap.uexp" "../../../MW5Mercs/Content/Levels/FrontEnd/"
+"F:\Games\Epic Library\MechWarrior5Editor\MW5Mercs\Saved\Cooked\WindowsNoEditor\MW5Mercs\Content\UniverseMod\StarMapPawn.uasset" "../../../MW5Mercs/Content/UI/FrontEnd/"
+"F:\Games\Epic Library\MechWarrior5Editor\MW5Mercs\Saved\Cooked\WindowsNoEditor\MW5Mercs\Content\UniverseMod\StarMapPawn.uexp" "../../../MW5Mercs/Content/UI/FrontEnd/"
