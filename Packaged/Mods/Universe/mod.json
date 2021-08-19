@@ -1,7 +1,7 @@
 {
    "displayName" : "Universe",
    "version" : "1.0",
-   "buildNumber" : 24,
+   "buildNumber" : 26,
    "description" : "",
    "author" : "diji",
    "authorURL" : "",
@@ -16,7 +16,7 @@
       "/Game/Campaign/CampaignArcs/BorderChanges/3034_RassalhaugeRecognized/Borders3034.uasset",
       "/Game/Campaign/CampaignArcs/BorderChanges/3039_WarOf3039/Borders3039.uasset",
       "/Game/Campaign/CampaignArcs/BorderChanges/3041_FormationOfFederatedCommonwealth/Borders3041.uasset",
-      "/Game/Libraries/MW5_FunctionLibrary.uasset",
+      "/Game/InnerSphereData/Updated/SystemFactionChanges.uasset",
       "/Game/UI/FrontEnd/StarSystemScreen.uasset",
       "/Game/UI/FrontEnd/Starmap/StarSystemBody.uasset"
    ],
